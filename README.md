@@ -2,6 +2,7 @@
 
 <!--
 **AnanyaA148/AnanyaA148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![2916483_4892710_25_30470387](https://github.com/user-attachments/assets/9cdf7299-99ad-4718-a587-2de55d009313)
 
 Here are some ideas to get you started:
 
